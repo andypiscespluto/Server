@@ -1,0 +1,15 @@
+<!--resources中写配置文件和静态文件-->
+<!--resources中写模板文件-->
+<!--static中写image,css,js文件 -->
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Getting Started: Serving Web Content</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+<!-- http://localhost:8080/hello?name=majiangbiji
+server port可以在application.properties中修改-->
+<p th:text="'Hello, ' + ${name} + '!'" />
+</body>
+</html>
