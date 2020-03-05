@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99e242d8-aad4-45b2-9ada-677b6a823172" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/serverManager" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/myserver/MyserverApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/myserver/controller/WebController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/example/myserver/MyserverApplicationTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +48,9 @@
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.example.myserver" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yangxue\Desktop\MyServer" />
     </key>
   </component>
   <component name="RunDashboard">
